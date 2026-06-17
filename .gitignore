@@ -17,3 +17,6 @@ Thumbs.db
 
 #Claude docs
 .next-version-prompt.md
+**/.env
+**/.venv/
+**/__pycache__/
